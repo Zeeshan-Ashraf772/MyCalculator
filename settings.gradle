@@ -1,0 +1,3 @@
+include ':MyCalculator'
+include ':app'
+rootProject.name = "Testing Sdks"
